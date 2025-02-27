@@ -21,18 +21,17 @@ const page = () => {
       </Badge>
       <div className="flex flex-col gap-5">
         <Heading>
-          Software Engineer And Web <br /> Developer, Based In India.
+          Software Engineer And Web <br /> Developer, Based In Ghana.
         </Heading>
 
         <FramerWrapper y={0} x={100}>
           <p className=" font-poppins text-xl w-full text-primary max-sm:text-lg ">
-            I am a Full Stack Web Developer from Ramgarh cantt, Jharkhand,
-            India. I&apos;m passionate about crafting web projects and
-            contributing to open-source communities. I specialize in modern
-            JavaScript frameworks and responsive CSS design, focusing on
-            creating pixel-perfect, user-friendly interfaces. With strong
-            attention to detail and efficient delivery, I build seamless web
-            experiences that combine functionality with elegant design.
+            I enjoy working with HTML, CSS, JavaScript, and Python, focusing on building dynamic, 
+            responsive web applications. My routine revolves around learning and sharing knowledge with my team. 
+            You&apos;ll often find me coding while listening to Imagine Dragons, keeping the energy high as I dive into projects.
+            Recently, I&apos;ve been refining my skills through side projects, including my first React.js project, NexStore. 
+            My passion for front-end development continues to grow, but I&apos;m also excited about contributing to backend work. 
+            Collaboration is key for me, and I&apos;m always open to exploring new technologies and programming languages.
           </p>
         </FramerWrapper>
       </div>
