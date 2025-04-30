@@ -2,7 +2,7 @@
 
 A simple and Beautiful Porfolio made with Nextjs and Shadcn Ui.
 
-![Demo](public\og-image.png)
+![Demo](/public/og-image.png)
 
 ## Getting Started
 
